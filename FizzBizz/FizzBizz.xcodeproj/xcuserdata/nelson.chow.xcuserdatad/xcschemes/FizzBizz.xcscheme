@@ -14,8 +14,8 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1B36D0EA1C697EE60011D23D"
-               BuildableName = "FizzBizz.app"
+               BlueprintIdentifier = "1B36D12C1C6981250011D23D"
+               BuildableName = "FizzBizz"
                BlueprintName = "FizzBizz"
                ReferencedContainer = "container:FizzBizz.xcodeproj">
             </BuildableReference>
@@ -28,32 +28,12 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1B36D1061C697EE60011D23D"
-               BuildableName = "FizzBizzTests.xctest"
-               BlueprintName = "FizzBizzTests"
-               ReferencedContainer = "container:FizzBizz.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1B36D1111C697EE60011D23D"
-               BuildableName = "FizzBizzUITests.xctest"
-               BlueprintName = "FizzBizzUITests"
-               ReferencedContainer = "container:FizzBizz.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1B36D0EA1C697EE60011D23D"
-            BuildableName = "FizzBizz.app"
+            BlueprintIdentifier = "1B36D12C1C6981250011D23D"
+            BuildableName = "FizzBizz"
             BlueprintName = "FizzBizz"
             ReferencedContainer = "container:FizzBizz.xcodeproj">
          </BuildableReference>
@@ -75,8 +55,8 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1B36D0EA1C697EE60011D23D"
-            BuildableName = "FizzBizz.app"
+            BlueprintIdentifier = "1B36D12C1C6981250011D23D"
+            BuildableName = "FizzBizz"
             BlueprintName = "FizzBizz"
             ReferencedContainer = "container:FizzBizz.xcodeproj">
          </BuildableReference>
@@ -94,8 +74,8 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1B36D0EA1C697EE60011D23D"
-            BuildableName = "FizzBizz.app"
+            BlueprintIdentifier = "1B36D12C1C6981250011D23D"
+            BuildableName = "FizzBizz"
             BlueprintName = "FizzBizz"
             ReferencedContainer = "container:FizzBizz.xcodeproj">
          </BuildableReference>
